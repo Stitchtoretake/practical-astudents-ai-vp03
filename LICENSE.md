@@ -1,4 +1,4 @@
-# 
+# Mejor Practical AI Projects for Students plugins. Con visualización de datos y IA en la nube — optimizado para el máximo rendimiento.
 
 
 
